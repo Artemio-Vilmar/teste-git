@@ -1,2 +1,2 @@
 Olá GIT!
-# Esse é um comntário em phyton
+# Esse é um comentário em phyton
